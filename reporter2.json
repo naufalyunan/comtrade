@@ -1,0 +1,25 @@
+{
+    "more": false,
+    "results": [
+        {
+            "id": "all",
+            "text": "All"
+        },
+        {
+            "id": "4",
+            "text": "Afghanistan"
+        },
+        {
+            "id": "8",
+            "text": "Albania"
+        },
+        {
+            "id": "12",
+            "text": "Algeria"
+        },
+        {
+            "id": "20",
+            "text": "Andorra"
+        }
+    ]
+}
