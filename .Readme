@@ -1,0 +1,7 @@
+**Step To Use This API (run in terminal)**
+
+-to clone project: git clone ${project address} (make sure git is installed)
+-npm -i
+-node app.js
+-open endpoint (http://localhost:3223/getData)
+-wait for result in result folder
