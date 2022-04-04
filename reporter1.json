@@ -1,0 +1,377 @@
+{
+  "more": false,
+  "results": [
+    {
+      "id": "4",
+      "text": "Afghanistan"
+    },
+    {
+      "id": "8",
+      "text": "Albania"
+    },
+    {
+      "id": "12",
+      "text": "Algeria"
+    },
+    {
+      "id": "20",
+      "text": "Andorra"
+    },
+    {
+      "id": "24",
+      "text": "Angola"
+    },
+    {
+      "id": "660",
+      "text": "Anguilla"
+    },
+    {
+      "id": "28",
+      "text": "Antigua and Barbuda"
+    },
+    {
+      "id": "32",
+      "text": "Argentina"
+    },
+    {
+      "id": "51",
+      "text": "Armenia"
+    },
+    {
+      "id": "533",
+      "text": "Aruba"
+    },
+    {
+      "id": "36",
+      "text": "Australia"
+    },
+    {
+      "id": "40",
+      "text": "Austria"
+    },
+    {
+      "id": "31",
+      "text": "Azerbaijan"
+    },
+    {
+      "id": "44",
+      "text": "Bahamas"
+    },
+    {
+      "id": "48",
+      "text": "Bahrain"
+    },
+    {
+      "id": "50",
+      "text": "Bangladesh"
+    },
+    {
+      "id": "52",
+      "text": "Barbados"
+    },
+    {
+      "id": "112",
+      "text": "Belarus"
+    },
+    {
+      "id": "56",
+      "text": "Belgium"
+    },
+    {
+      "id": "58",
+      "text": "Belgium-Luxembourg"
+    },
+    {
+      "id": "84",
+      "text": "Belize"
+    },
+    {
+      "id": "204",
+      "text": "Benin"
+    },
+    {
+      "id": "60",
+      "text": "Bermuda"
+    },
+    {
+      "id": "64",
+      "text": "Bhutan"
+    },
+    {
+      "id": "68",
+      "text": "Bolivia (Plurinational State of)"
+    },
+    {
+      "id": "535",
+      "text": "Bonaire"
+    },
+    {
+      "id": "70",
+      "text": "Bosnia Herzegovina"
+    },
+    {
+      "id": "72",
+      "text": "Botswana"
+    },
+    {
+      "id": "92",
+      "text": "Br. Virgin Isds"
+    },
+    {
+      "id": "76",
+      "text": "Brazil"
+    },
+    {
+      "id": "96",
+      "text": "Brunei Darussalam"
+    },
+    {
+      "id": "100",
+      "text": "Bulgaria"
+    },
+    {
+      "id": "854",
+      "text": "Burkina Faso"
+    },
+    {
+      "id": "108",
+      "text": "Burundi"
+    },
+    {
+      "id": "132",
+      "text": "Cabo Verde"
+    },
+    {
+      "id": "116",
+      "text": "Cambodia"
+    },
+    {
+      "id": "120",
+      "text": "Cameroon"
+    },
+    {
+      "id": "124",
+      "text": "Canada"
+    },
+    {
+      "id": "136",
+      "text": "Cayman Isds"
+    },
+    {
+      "id": "140",
+      "text": "Central African Rep."
+    },
+    {
+      "id": "148",
+      "text": "Chad"
+    },
+    {
+      "id": "152",
+      "text": "Chile"
+    },
+    {
+      "id": "156",
+      "text": "China"
+    },
+    {
+      "id": "344",
+      "text": "China, Hong Kong SAR"
+    },
+    {
+      "id": "446",
+      "text": "China, Macao SAR"
+    },
+    {
+      "id": "170",
+      "text": "Colombia"
+    },
+    {
+      "id": "174",
+      "text": "Comoros"
+    },
+    {
+      "id": "178",
+      "text": "Congo"
+    },
+    {
+      "id": "184",
+      "text": "Cook Isds"
+    },
+    {
+      "id": "188",
+      "text": "Costa Rica"
+    },
+    {
+      "id": "384",
+      "text": "Côte d'Ivoire"
+    },
+    {
+      "id": "191",
+      "text": "Croatia"
+    },
+    {
+      "id": "192",
+      "text": "Cuba"
+    },
+    {
+      "id": "531",
+      "text": "Curaçao"
+    },
+    {
+      "id": "196",
+      "text": "Cyprus"
+    },
+    {
+      "id": "203",
+      "text": "Czechia"
+    },
+    {
+      "id": "200",
+      "text": "Czechoslovakia"
+    },
+    {
+      "id": "408",
+      "text": "Dem. People's Rep. of Korea"
+    },
+    {
+      "id": "180",
+      "text": "Dem. Rep. of the Congo"
+    },
+    {
+      "id": "208",
+      "text": "Denmark"
+    },
+    {
+      "id": "262",
+      "text": "Djibouti"
+    },
+    {
+      "id": "212",
+      "text": "Dominica"
+    },
+    {
+      "id": "214",
+      "text": "Dominican Rep."
+    },
+    {
+      "id": "588",
+      "text": "East and West Pakistan"
+    },
+    {
+      "id": "218",
+      "text": "Ecuador"
+    },
+    {
+      "id": "818",
+      "text": "Egypt"
+    },
+    {
+      "id": "222",
+      "text": "El Salvador"
+    },
+    {
+      "id": "226",
+      "text": "Equatorial Guinea"
+    },
+    {
+      "id": "232",
+      "text": "Eritrea"
+    },
+    {
+      "id": "233",
+      "text": "Estonia"
+    },
+    {
+      "id": "231",
+      "text": "Ethiopia"
+    },
+    {
+      "id": "97",
+      "text": "EU-28"
+    },
+    {
+      "id": "234",
+      "text": "Faeroe Isds"
+    },
+    {
+      "id": "238",
+      "text": "Falkland Isds (Malvinas)"
+    },
+    {
+      "id": "242",
+      "text": "Fiji"
+    },
+    {
+      "id": "246",
+      "text": "Finland"
+    },
+    {
+      "id": "886",
+      "text": "Fmr Arab Rep. of Yemen"
+    },
+    {
+      "id": "278",
+      "text": "Fmr Dem. Rep. of Germany"
+    },
+    {
+      "id": "866",
+      "text": "Fmr Dem. Rep. of Vietnam"
+    },
+    {
+      "id": "720",
+      "text": "Fmr Dem. Yemen"
+    },
+    {
+      "id": "230",
+      "text": "Fmr Ethiopia"
+    },
+    {
+      "id": "280",
+      "text": "Fmr Fed. Rep. of Germany"
+    },
+    {
+      "id": "582",
+      "text": "Fmr Pacific Isds"
+    },
+    {
+      "id": "590",
+      "text": "Fmr Panama, excl.Canal Zone"
+    },
+    {
+      "id": "592",
+      "text": "Fmr Panama-Canal-Zone"
+    },
+    {
+      "id": "868",
+      "text": "Fmr Rep. of Vietnam"
+    },
+    {
+      "id": "717",
+      "text": "Fmr Rhodesia Nyas"
+    },
+    {
+      "id": "736",
+      "text": "Fmr Sudan"
+    },
+    {
+      "id": "835",
+      "text": "Fmr Tanganyika"
+    },
+    {
+      "id": "810",
+      "text": "Fmr USSR"
+    },
+    {
+      "id": "890",
+      "text": "Fmr Yugoslavia"
+    },
+    {
+      "id": "836",
+      "text": "Fmr Zanzibar and Pemba Isd"
+    },
+    {
+      "id": "251",
+      "text": "France"
+    }
+  ]
+}
